@@ -1,4 +1,4 @@
-# LeetCode Solutions by Yousef Hany
+# LeetCode Solutions
 
 This repository contains my solutions to the LeetCode 10-Day Plan, a curated list of 40 problems designed to enhance problem-solving skills and algorithmic understanding. The problems cover a wide range of data structures and algorithms, including Arrays, Hashing, Two Pointers, Sliding Window, Stacks, Binary Search, Linked Lists, Trees, Heaps, Greedy algorithms, Graphs, and Dynamic Programming.
 
