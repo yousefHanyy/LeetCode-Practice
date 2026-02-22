@@ -8,15 +8,12 @@ The problems are organized by day and topic, following the structure of the Leet
 
 ### Day 1 – Arrays & Hashing
 
-- [Two Sum](https://leetcode.com/problems/two-sum/) (Easy)
-- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Easy)
-- [Valid Anagram](https://leetcode.com/problems/valid-anagram/) (Easy)
-- [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (Medium)
+-[x] [Two Sum](https://leetcode.com/problems/two-sum/) (Easy) -[x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Easy) -[x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) (Easy) -[x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (Medium)
 
 ### Day 2 – Arrays & Prefix/Greedy
 
-- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (Easy)
-- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (Medium)
+-[x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (Easy) -[x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (Medium)
+
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (Medium)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/) (Medium)
 
